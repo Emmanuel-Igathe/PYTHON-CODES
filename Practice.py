@@ -1,0 +1,5 @@
+print("Hello My name is manu \nI am a student")
+print()
+print("You can also call me Igathe\nOr mararo but I don't like it")
+print()
+print("\\")
